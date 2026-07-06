@@ -5,6 +5,7 @@ An Artificial Intelligence & Data Science graduate and aspiring Software Develop
 I develop applications using Java, Python, SQL, and modern web technologies while continuously exploring software engineering, full stack development, and Artificial Intelligence .
 
 Technical Skills
+
   Programming Languages:  Java | Python |  SQL | JavaScript
   
   Web Technologies:   HTML5 | CSS3 | Responsive Web Design
