@@ -6,10 +6,15 @@ I develop applications using Java, Python, SQL, and modern web technologies whil
 
 Technical Skills
   Programming Languages:  Java | Python |  SQL | JavaScript
+  
   Web Technologies:   HTML5 | CSS3 | Responsive Web Design
+  
  	Databases:  Microsoft SQL Server  |  SQL Server Management Studio (SSMS)
+	
 	Tools & IDEs:  Git  |  GitHub  |  Visual Studio Code  |  Eclipse IDE  |  GitHub Copilot
+	
 	Core Concepts:  Object-Oriented Programming (OOP) |  Data Structures & Algorithms  | Exception       Handling  |  File Handling  |  Collections Framework  |  Software Development Fundamentals
+	
  	Productivity Tools: Microsoft Excel (Pivot Tables, VLOOKUP, HLOOKUP, XLOOKUP)
 
 Currently working on
