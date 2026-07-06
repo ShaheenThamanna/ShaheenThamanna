@@ -19,16 +19,22 @@ Technical Skills
    Productivity Tools: Microsoft Excel (Pivot Tables, VLOOKUP, HLOOKUP, XLOOKUP)
 
 Currently working on
+
 	Java Full Stack Development
+	
 	Python projects and automation
+	
 	Building real-world portfolio projects
+	
 	Strengthening Data Structures & Algorithms
+	
 	Improving my Japanese language skills (JLPT N4 level)
 
 Languages Known 
+
 	 English (Fluent)
 	 Tamil (Native)
-   Hindi (Proficient)
+    Hindi (Proficient)
 	 Urdu (Conversational)
 	 Japanese (JLPT N4 Level)
 	 Arabic (Basic Reading)
