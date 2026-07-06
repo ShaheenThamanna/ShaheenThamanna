@@ -9,13 +9,13 @@ Technical Skills
   
   Web Technologies:   HTML5 | CSS3 | Responsive Web Design
   
- 	Databases:  Microsoft SQL Server  |  SQL Server Management Studio (SSMS)
+  Databases:  Microsoft SQL Server  |  SQL Server Management Studio (SSMS)
 	
-	Tools & IDEs:  Git  |  GitHub  |  Visual Studio Code  |  Eclipse IDE  |  GitHub Copilot
+  Tools & IDEs:  Git  |  GitHub  |  Visual Studio Code  |  Eclipse IDE  |  GitHub Copilot
 	
-	Core Concepts:  Object-Oriented Programming (OOP) |  Data Structures & Algorithms  | Exception       Handling  |  File Handling  |  Collections Framework  |  Software Development Fundamentals
+  Core Concepts:  Object-Oriented Programming (OOP) |  Data Structures & Algorithms  | Exception       Handling  |  File Handling  |  Collections Framework  |  Software Development Fundamentals
 	
- 	Productivity Tools: Microsoft Excel (Pivot Tables, VLOOKUP, HLOOKUP, XLOOKUP)
+   Productivity Tools: Microsoft Excel (Pivot Tables, VLOOKUP, HLOOKUP, XLOOKUP)
 
 Currently working on
 	Java Full Stack Development
